@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TLMazemaker
 - 👀 I’m interested in Playing games, reading novels, coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I'm experienced in Java, Php, Python, Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jetrichk (instagram)
 
