@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TLMazemaker
 - 👀 I’m interested in Playing games, reading novels, coding.
 - 🌱 I'm experienced in Java, PHP, Python, Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development or Machine Learning projects.
 - 📫 How to reach me : [Jetrich Khowanto](https://www.linkedin.com/in/jetrich-khowanto-877319241/)(LinkedIn)
 
 <!---
